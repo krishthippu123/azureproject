@@ -1,0 +1,9 @@
+{
+	"name": "ADFProjectbala",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8089bffc-40dd-47f4-bcdc-7afaf65b3abe",
+		"tenantId": "c3da56e2-faa8-49bf-b503-7bcb5a838661"
+	}
+}

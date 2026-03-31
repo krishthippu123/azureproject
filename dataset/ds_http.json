@@ -1,10 +1,6 @@
 {
 	"name": "ds_http",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "httplinkedservice",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
